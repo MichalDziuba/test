@@ -1,0 +1,48 @@
+.cityToday__wrapper{
+    position: absolute;
+    right: 0px;
+    width: 450px;
+    height: 259px;
+    background-color:#102136 ;
+box-shadow: 0px 8px 43px rgba(16, 33, 54, 0.6);
+    border-radius: 34px 0px 0px 34px;
+    color:#ffffff;
+    
+}
+.cityToday__info{
+    
+    display: flex;
+    flex-direction: column;
+}
+.cityToday__temp{
+    text-align: center;
+    font-size: 90px;
+}
+.cityToday__city{
+    font-size: 18px;
+    text-align: center;
+    color:rgba(118, 125, 133, 1) ;
+}
+.cityToday__icon{
+    margin-top: 29px;
+}
+.cityToday__temperatures{
+   
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.cityToday__temperatures_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.cityToday__temperature_info{
+    margin-bottom: 6px;
+    font-weight: 400;
+    font-size: 18px;
+    color:rgba(118, 125, 133, 1) ;
+}
+.cityToday__temperature_data{
+    font-weight: 400;
+        font-size: 18px;
+}

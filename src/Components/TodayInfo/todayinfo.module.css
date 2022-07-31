@@ -1,0 +1,41 @@
+.todayInfo__wrapper {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 630px;
+  height: 278px;
+  background-color: rgba(16, 33, 54, 0.6);
+  border-radius: 0px 34px 0px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.todayInfo__date {
+  margin-top: 40px;
+  font-weight: 300;
+  display: flex;
+justify-content:center;
+}
+.todayInfo__time {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 18px;
+}
+.todayInfo__day{
+font-size: 90px;
+}
+.todayInfo__dayName{
+font-size: 100px;
+}
+.todayInfo__suffix {
+  font-size: 50px;
+  margin-right: 40px;
+  margin-left: 10px;
+}
+.todayInfo__day_wrapper{
+    display: flex;
+}
+.icon_sun {
+  fill: #ff6b09;
+  width: 20px;
+  height: 20px;
+}

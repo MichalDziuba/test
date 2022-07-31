@@ -1,0 +1,36 @@
+.searching__wrapper{
+    margin-top: 80px;
+    height: 768px;
+    width: 320px;
+    display: flex;
+
+ 
+}
+.searching__input{
+    border-style: none;
+    border-radius: 30px;
+    width: 520px;
+    height: 48px;
+    padding: auto;
+    text-align: center;
+}
+.searching__from{
+    position: relative;
+}
+.icon{
+stroke:1px rgba(126, 134, 145, 1);
+}
+.searching__button{
+    border: none;
+    background-color: inherit;
+}
+.searching__button__location{
+position: absolute;
+left: 20px;
+top: 13px;
+}
+.searching__button__star{
+    position: absolute;
+    right: 20px;
+    top: 13px;
+}

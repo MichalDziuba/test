@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+background: linear-gradient(0.56deg, #000000 -13.48%, rgba(0, 0, 0, 0) 78.75%),url('./Images/App/day-background-desktop.png') no-repeat;
+background-position: center;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+font-family: 'Lato', sans-serif;
+color: #ffffff;
+
+}
+
+
